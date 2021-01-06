@@ -69,3 +69,15 @@ Learn React-hooks (`useEffect()`)
 [Epic React](https://epicreact.dev/modules/react-hooks/useeffect-http-requests-intro)
 
 ---
+
+### Day 6: 06/01/2021
+
+**Notes**
+
+Learn React-hooks (handle errors)
+
+**Resources Used**
+
+[Epic React](https://epicreact.dev/modules/react-hooks/useeffect-http-requests-extra-credit-solution-1)
+
+---
