@@ -81,3 +81,15 @@ Learn React-hooks (handle errors)
 [Epic React](https://epicreact.dev/modules/react-hooks/useeffect-http-requests-extra-credit-solution-1)
 
 ---
+
+### Day 7: 07/01/2021
+
+**Notes**
+
+Learn Error Boundaries in React
+
+**Resources Used**
+
+[React Docs](https://reactjs.org/docs/error-boundaries.html)
+
+---
