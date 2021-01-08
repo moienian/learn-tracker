@@ -93,3 +93,17 @@ Learn Error Boundaries in React
 [React Docs](https://reactjs.org/docs/error-boundaries.html)
 
 ---
+
+### Day 8: 08/01/2021
+
+**Notes**
+
+Reading about Nextjs framework
+
+**Resources Used**
+
+[Next.js in 100 Seconds](https://www.youtube.com/watch?v=Sklc_fQBmcs)
+
+[Nextjs Official Docs](https://nextjs.org/docs/getting-started)
+
+---
