@@ -107,3 +107,15 @@ Reading about Nextjs framework
 [Nextjs Official Docs](https://nextjs.org/docs/getting-started)
 
 ---
+
+### Day 9: 09/01/2021
+
+**Notes**
+
+Learn handling Errors with `react-error-boundary`
+
+**Resources Used**
+
+[Github](https://github.com/bvaughn/react-error-boundary)
+
+---
