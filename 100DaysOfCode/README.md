@@ -108,14 +108,18 @@ Reading about Nextjs framework
 
 ---
 
-### Day 9: 09/01/2021
+### Day 10: 10/01/2021
 
 **Notes**
 
-Learn handling Errors with `react-error-boundary`
+Learning about `useReducer()` hook
 
 **Resources Used**
 
-[Github](https://github.com/bvaughn/react-error-boundary)
+[Kent C. Dodds Blog](https://kentcdodds.com/blog/how-to-implement-usestate-with-usereducer)
+
+[Kent C. Dodds Blog](https://kentcdodds.com/blog/should-i-usestate-or-usereducer)
+
+[Epic React](https://epicreact.dev/modules/advanced-react-hooks/usereducer-simple-counter-intro)
 
 ---
