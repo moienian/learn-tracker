@@ -123,3 +123,19 @@ Learning about `useReducer()` hook
 [Epic React](https://epicreact.dev/modules/advanced-react-hooks/usereducer-simple-counter-intro)
 
 ---
+
+### Day 11: 11/01/2021
+
+**Notes**
+
+Learning about `Array.every()` and `Array.sort()` methods
+
+**Resources Used**
+
+[Youtube](https://www.youtube.com/watch?v=Arbk085MWjc)
+
+[Youtube](https://www.youtube.com/watch?v=nq0DC5M3Kc8)
+
+[w3schools](https://www.w3schools.com/js/js_array_sort.asp)
+
+---
