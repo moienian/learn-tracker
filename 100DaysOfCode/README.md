@@ -139,3 +139,17 @@ Learning about `Array.every()` and `Array.sort()` methods
 [w3schools](https://www.w3schools.com/js/js_array_sort.asp)
 
 ---
+
+### Day 12: 12/01/2021
+
+**Notes**
+
+Learning about `Array.some()` and `Array.filter()`
+
+**Resources Used**
+
+[Youtube](https://www.youtube.com/watch?v=7m9EiRS_Kc0)
+
+[Youtube](https://www.youtube.com/watch?v=3LOEGS4qcRM)
+
+---
