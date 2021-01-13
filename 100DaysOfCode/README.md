@@ -153,3 +153,17 @@ Learning about `Array.some()` and `Array.filter()`
 [Youtube](https://www.youtube.com/watch?v=3LOEGS4qcRM)
 
 ---
+
+### Day 13: 13/01/2021
+
+**Notes**
+
+Learning about `Array.map()` and `Array.reduce()`
+
+**Resources Used**
+
+[Youtube](https://www.youtube.com/watch?v=G6J2kl1aVao)
+
+[Youtube](https://www.youtube.com/watch?v=0aJ65a6LsSc)
+
+---
