@@ -167,3 +167,15 @@ Learning about `Array.map()` and `Array.reduce()`
 [Youtube](https://www.youtube.com/watch?v=0aJ65a6LsSc)
 
 ---
+
+### Day 14: 14/01/2021
+
+**Notes**
+
+Learning about Memoization and react
+
+**Resources Used**
+
+[Epic React](https://epicreact.dev/memoization-and-react)
+
+---
