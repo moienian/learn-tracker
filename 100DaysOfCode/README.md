@@ -179,3 +179,15 @@ Learning about Memoization and react
 [Epic React](https://epicreact.dev/memoization-and-react)
 
 ---
+
+### Day 15: 15/01/2021
+
+**Notes**
+
+Learning about `useCallback()`
+
+**Resources Used**
+
+[Epic React](https://epicreact.dev/modules/advanced-react-hooks/usecallback-custom-hooks-intro)
+
+---
