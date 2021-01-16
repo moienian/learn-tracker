@@ -191,3 +191,15 @@ Learning about `useCallback()`
 [Epic React](https://epicreact.dev/modules/advanced-react-hooks/usecallback-custom-hooks-intro)
 
 ---
+
+### Day 16: 16/01/2021
+
+**Notes**
+
+Learning about `useContext()`
+
+**Resources Used**
+
+[Epic React](https://epicreact.dev/modules/advanced-react-hooks/usecontext-simple-counter-intro)
+
+---
