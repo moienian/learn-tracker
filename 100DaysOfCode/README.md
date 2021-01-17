@@ -203,3 +203,17 @@ Learning about `useContext()`
 [Epic React](https://epicreact.dev/modules/advanced-react-hooks/usecontext-simple-counter-intro)
 
 ---
+
+### Day 17: 17/01/2021
+
+**Notes**
+
+Learning about `useLayoutEffect()`
+
+**Resources Used**
+
+[Epic React](https://epicreact.dev/modules/advanced-react-hooks/uselayouteffect-auto-growing-textarea-intro)
+
+[Kent C. Dodds Blog](https://kentcdodds.com/blog/useeffect-vs-uselayouteffect)
+
+---
