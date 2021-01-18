@@ -217,3 +217,19 @@ Learning about `useLayoutEffect()`
 [Kent C. Dodds Blog](https://kentcdodds.com/blog/useeffect-vs-uselayouteffect)
 
 ---
+
+### Day 18: 18/01/2021
+
+**Notes**
+
+Learning about Imperative and Declarative programming
+
+Learning about `useLayoutEffect()`
+
+**Resources Used**
+
+[ui.dev](https://ui.dev/imperative-vs-declarative-programming)
+
+[Kent C. Dodds Blog](https://kentcdodds.com/blog/useeffect-vs-uselayouteffect)
+
+---
