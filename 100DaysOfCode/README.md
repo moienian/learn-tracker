@@ -224,12 +224,20 @@ Learning about `useLayoutEffect()`
 
 Learning about Imperative and Declarative programming
 
-Learning about `useLayoutEffect()`
-
 **Resources Used**
 
 [ui.dev](https://ui.dev/imperative-vs-declarative-programming)
 
-[Kent C. Dodds Blog](https://kentcdodds.com/blog/useeffect-vs-uselayouteffect)
+---
+
+### Day 19: 19/01/2021
+
+**Notes**
+
+Learning about some React patterns
+
+**Resources Used**
+
+[Epic React](https://epicreact.dev/modules/advanced-react-patterns/advanced-react-patterns-welcome)
 
 ---
