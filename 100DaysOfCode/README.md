@@ -241,3 +241,15 @@ Learning about some React patterns
 [Epic React](https://epicreact.dev/modules/advanced-react-patterns/advanced-react-patterns-welcome)
 
 ---
+
+### Day 20: 20/01/2021
+
+**Notes**
+
+Working with nodejs and Express
+
+**Resources Used**
+
+[Youtube](https://www.youtube.com/watch?v=gikxqKTuIQg)
+
+---
