@@ -253,3 +253,15 @@ Working with nodejs and Express
 [Youtube](https://www.youtube.com/watch?v=gikxqKTuIQg)
 
 ---
+
+### Day 21: 21/01/2021
+
+**Notes**
+
+Implement a simple project for running a nodejs server
+
+**Resources Used**
+
+[Github](https://github.com/moienian/node-express-course)
+
+---
