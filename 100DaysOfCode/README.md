@@ -265,3 +265,15 @@ Implement a simple project for running a nodejs server
 [Github](https://github.com/moienian/node-express-course)
 
 ---
+
+### Day 22: 22/01/2021
+
+**Notes**
+
+Learning Nodejs for create and update data in database
+
+**Resources Used**
+
+[Github](https://github.com/moienian/intermediate-node-course)
+
+---
