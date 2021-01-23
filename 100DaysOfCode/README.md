@@ -277,3 +277,15 @@ Learning Nodejs for create and update data in database
 [Github](https://github.com/moienian/intermediate-node-course)
 
 ---
+
+### Day 23: 23/01/2021
+
+**Notes**
+
+Working with Github Pages using markdown
+
+**Resources Used**
+
+[Github](https://github.com/moienian/markdown-portfolio)
+
+---
