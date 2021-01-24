@@ -289,3 +289,15 @@ Working with Github Pages using markdown
 [Github](https://github.com/moienian/markdown-portfolio)
 
 ---
+
+### Day 24: 24/01/2021
+
+**Notes**
+
+Build simple portfolio using Github Pages
+
+**Resources Used**
+
+[Github](https://github.com/moienian/markdown-portfolio)
+
+---
