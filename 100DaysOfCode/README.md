@@ -301,3 +301,17 @@ Build simple portfolio using Github Pages
 [Github](https://github.com/moienian/markdown-portfolio)
 
 ---
+
+### Day 25: 25/01/2021
+
+**Notes**
+
+Learn about some React patterns
+
+**Resources Used**
+
+[Epic React](https://epicreact.dev/modules/advanced-react-patterns/state-reducer-intro)
+
+[Epic React](https://epicreact.dev/modules/advanced-react-patterns/control-props-intro)
+
+---
