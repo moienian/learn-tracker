@@ -315,3 +315,15 @@ Learn about some React patterns
 [Epic React](https://epicreact.dev/modules/advanced-react-patterns/control-props-intro)
 
 ---
+
+### Day 26: 26/01/2021
+
+**Notes**
+
+Learn about CSR and SSR
+
+**Resources Used**
+
+[Aparat](https://www.aparat.com/v/CV1ic)
+
+---
