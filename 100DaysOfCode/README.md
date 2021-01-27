@@ -327,3 +327,21 @@ Learn about CSR and SSR
 [Aparat](https://www.aparat.com/v/CV1ic)
 
 ---
+
+### Day 27: 27/01/2021
+
+**Notes**
+
+Learn about Controlled and unControlled components
+
+Learn about code splitting
+
+**Resources Used**
+
+[React Docs](https://reactjs.org/docs/forms.html#controlled-components)
+
+[Kent C. Dodds Blog](https://kentcdodds.com/blog/control-props-vs-state-reducers)
+
+[Epic React](https://epicreact.dev/modules/react-performance/code-splitting-intro)
+
+---
