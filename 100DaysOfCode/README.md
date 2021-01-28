@@ -345,3 +345,15 @@ Learn about code splitting
 [Epic React](https://epicreact.dev/modules/react-performance/code-splitting-intro)
 
 ---
+
+### Day 28: 28/01/2021
+
+**Notes**
+
+Learn about coverage tab in chrome devtools
+
+**Resources Used**
+
+[Google Developers](https://developers.google.com/web/tools/chrome-devtools)
+
+---
