@@ -357,3 +357,19 @@ Learn about coverage tab in chrome devtools
 [Google Developers](https://developers.google.com/web/tools/chrome-devtools)
 
 ---
+
+### Day 29: 29/01/2021
+
+**Notes**
+
+Learn about Javascript Modules
+
+**Resources Used**
+
+[Useful Angle](https://usefulangle.com/post/256/script-type-module-vs-script-javascript)
+
+[v8.dev](https://v8.dev/features/modules)
+
+[sitepoint](https://www.sitepoint.com/using-es-modules/)
+
+---
