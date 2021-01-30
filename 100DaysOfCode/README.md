@@ -373,3 +373,15 @@ Learn about Javascript Modules
 [sitepoint](https://www.sitepoint.com/using-es-modules/)
 
 ---
+
+### Day 30: 30/01/2021
+
+**Notes**
+
+Learn about Webpack magic comments
+
+**Resources Used**
+
+[Webpack api](https://webpack.js.org/api/module-methods/#magic-comments)
+
+---
