@@ -385,3 +385,15 @@ Learn about Webpack magic comments
 [Webpack api](https://webpack.js.org/api/module-methods/#magic-comments)
 
 ---
+
+### Day 31: 31/01/2021
+
+**Notes**
+
+Learn about React.memo for reducing re-renders
+
+**Resources Used**
+
+[Epic React](https://epicreact.dev/modules/react-performance/reactmemo-for-reducing-re-renders-intro)
+
+---
