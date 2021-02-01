@@ -397,3 +397,23 @@ Learn about React.memo for reducing re-renders
 [Epic React](https://epicreact.dev/modules/react-performance/reactmemo-for-reducing-re-renders-intro)
 
 ---
+
+### Day 32: 01/02/2021
+
+**Notes**
+
+Learn about colocation
+
+Learn about react profiler
+
+**Resources Used**
+
+[Kent C. Dodds Blog](https://kentcdodds.com/blog/state-colocation-will-make-your-react-app-faster)
+
+[Epic React](https://epicreact.dev/modules/react-performance/fix-perf-death-by-a-thousand-cuts-solution)
+
+[React Docs](https://reactjs.org/docs/profiler.html)
+
+[Kent C. Dodds Blog](https://kentcdodds.com/blog/react-production-performance-monitoring)
+
+---
