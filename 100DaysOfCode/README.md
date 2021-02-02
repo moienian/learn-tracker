@@ -417,3 +417,19 @@ Learn about react profiler
 [Kent C. Dodds Blog](https://kentcdodds.com/blog/react-production-performance-monitoring)
 
 ---
+
+### Day 33: 02/02/2021
+
+**Notes**
+
+Learn about testing react apps
+
+**Resources Used**
+
+[Kent C. Dodds Blog](https://kentcdodds.com/blog/but-really-what-is-a-javascript-test)
+
+[Kent C. Dodds Blog](https://kentcdodds.com/blog/but-really-what-is-a-javascript-mock)
+
+[Epic React](https://epicreact.dev/modules/testing-react-apps/simple-test-with-reactdom-intro)
+
+---
