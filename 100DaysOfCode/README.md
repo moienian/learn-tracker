@@ -433,3 +433,19 @@ Learn about testing react apps
 [Epic React](https://epicreact.dev/modules/testing-react-apps/simple-test-with-reactdom-intro)
 
 ---
+
+### Day 34: 03/02/2021
+
+**Notes**
+
+Learn about testing
+
+**Resources Used**
+
+[Kent C. Dodds Blog](https://kentcdodds.com/blog/testing-implementation-details)
+
+[Kent C. Dodds Blog](https://kentcdodds.com/blog/avoid-the-test-user)
+
+[Epic React](https://epicreact.dev/modules/testing-react-apps/avoid-implementation-details-intro)
+
+---
