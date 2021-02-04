@@ -449,3 +449,15 @@ Learn about testing
 [Epic React](https://epicreact.dev/modules/testing-react-apps/avoid-implementation-details-intro)
 
 ---
+
+### Day 35 : 04/02/2021
+
+**Notes**
+
+Watching Live with Kent office hours
+
+**Resources Used**
+
+[Youtube](https://www.youtube.com/watch?v=xJpNIbJYK8Y)
+
+---
