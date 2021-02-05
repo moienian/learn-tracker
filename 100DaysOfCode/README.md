@@ -461,3 +461,17 @@ Watching Live with Kent office hours
 [Youtube](https://www.youtube.com/watch?v=xJpNIbJYK8Y)
 
 ---
+
+<details>
+<summary>Day 36</summary>
+  
+### Day 36 : 05/02/2021
+  
+- [x] Learn about CSS box shadow
+[MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/box-shadow) |
+[w3schools](https://www.w3schools.com/cssref/css3_pr_box-shadow.asp)
+
+- [x] Learn about CSS scale transform
+      [MDN](<https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/scale()>)
+
+</details>
