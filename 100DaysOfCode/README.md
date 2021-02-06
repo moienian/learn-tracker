@@ -393,3 +393,13 @@ Take a look at the official [100 Days of Code site](https://www.100daysofcode.co
       [MDN](<https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/scale()>)
 
 </details>
+
+<details>
+<summary>Day 37</summary>
+  
+### Day 37 : 06/02/2021
+  
+- [x] Learn about testing react forms
+[Epic React](https://epicreact.dev/modules/testing-react-apps/form-testing-intro)
+
+</details>
