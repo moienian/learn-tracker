@@ -2,465 +2,383 @@
 
 Take a look at the official [100 Days of Code site](https://www.100daysofcode.com/) if you'd like to participate in this challenge and log your progress here.
 
----
+<details>
+<summary>Day 1</summary>
 
 ### Day 1: 01/01/2021
 
-**Notes**
+- [x] Take LinkedIn javascript exam.
 
-Take LinkedIn javascript exam.
+- [x] Learning function scopes in modern javascript
+      [You Dont Know Js](https://github.com/getify/You-Dont-Know-JS/tree/2nd-ed/scope-closures) on Github
 
-Learning function scopes in modern javascript
+</details>
 
-**Resources Used**
-
-[You Dont Know Js](https://github.com/getify/You-Dont-Know-JS/tree/2nd-ed/scope-closures) on Github
-
----
+<details>
+<summary>Day 2</summary>
 
 ### Day 2: 02/01/2021
 
-**Notes**
+- [x] Learn React-hooks (`useMemo()`)
+      [Epic React](https://epicreact.dev/modules/react-hooks) |
+      [Kent C. Dodds Blog](https://kentcdodds.com/blog/usememo-and-usecallback) |
+      [Web Dev Simplified](https://www.youtube.com/watch?v=THL1OPn72vo)
 
-Learn React-hooks (`useMemo()`)
+</details>
 
-**Resources Used**
-
-[Epic React](https://epicreact.dev/modules/react-hooks)
-
-[Kent C. Dodds Blog](https://kentcdodds.com/blog/usememo-and-usecallback)
-
-[Web Dev Simplified](https://www.youtube.com/watch?v=THL1OPn72vo)
-
----
+<details>
+<summary>Day 3</summary>
 
 ### Day 3: 03/01/2021
 
-**Notes**
+- [x] Learn React-hooks (create simple `useGenerateId()` hook using `useMemo()`)
+      [Github](https://github.com/moienian/react-hooks/blob/main/src/hooks/useGenerateId.js)
 
-Learn React-hooks (create simple `useGenerateId()` hook using `useMemo()`)
+</details>
 
-**Resources Used**
-
-[Github](https://github.com/moienian/react-hooks/blob/main/src/hooks/useGenerateId.js)
-
----
+<details>
+<summary>Day 4</summary>
 
 ### Day 4: 04/01/2021
 
-**Notes**
+- [x] Learning a little about IIFE in Javascript
+      [ditty blog](https://ditty.ir/posts/javascript-iife/nBq75)
 
-Learning a little about IIFE in Javascript
+</details>
 
-**Resources Used**
-
-[ditty blog](https://ditty.ir/posts/javascript-iife/nBq75)
-
----
+<details>
+<summary>Day 5</summary>
 
 ### Day 5: 05/01/2021
 
-**Notes**
+- [x] Learn React-hooks (`useEffect()`)
+      [Epic React](https://epicreact.dev/modules/react-hooks/useeffect-http-requests-intro)
 
-Learn React-hooks (`useEffect()`)
+</details>
 
-**Resources Used**
-
-[Epic React](https://epicreact.dev/modules/react-hooks/useeffect-http-requests-intro)
-
----
+<details>
+<summary>Day 6</summary>
 
 ### Day 6: 06/01/2021
 
-**Notes**
+- [x] Learn React-hooks (handle errors)
+      [Epic React](https://epicreact.dev/modules/react-hooks/useeffect-http-requests-extra-credit-solution-1)
 
-Learn React-hooks (handle errors)
+</details>
 
-**Resources Used**
-
-[Epic React](https://epicreact.dev/modules/react-hooks/useeffect-http-requests-extra-credit-solution-1)
-
----
+<details>
+<summary>Day 7</summary>
 
 ### Day 7: 07/01/2021
 
-**Notes**
+- [x] Learn Error Boundaries in React
+      [React Docs](https://reactjs.org/docs/error-boundaries.html)
 
-Learn Error Boundaries in React
+</details>
 
-**Resources Used**
-
-[React Docs](https://reactjs.org/docs/error-boundaries.html)
-
----
+<details>
+<summary>Day 8</summary>
 
 ### Day 8: 08/01/2021
 
-**Notes**
+- [x] Reading about Nextjs framework
+      [Youtube](https://www.youtube.com/watch?v=Sklc_fQBmcs) |
+      [Nextjs Official Docs](https://nextjs.org/docs/getting-started)
 
-Reading about Nextjs framework
+</details>
 
-**Resources Used**
+<details>
+<summary>Day 9</summary>
 
-[Next.js in 100 Seconds](https://www.youtube.com/watch?v=Sklc_fQBmcs)
+### Day 9: 09/01/2021
 
-[Nextjs Official Docs](https://nextjs.org/docs/getting-started)
+- [x] Learn handling Errors with `react-error-boundary`
+      [Github](https://github.com/bvaughn/react-error-boundary)
 
----
+</details>
+
+<details>
+<summary>Day 10</summary>
 
 ### Day 10: 10/01/2021
 
-**Notes**
+- [x] Learning about `useReducer()` hook
+      [Kent C. Dodds Blog](https://kentcdodds.com/blog/how-to-implement-usestate-with-usereducer) |
+      [Kent C. Dodds Blog](https://kentcdodds.com/blog/should-i-usestate-or-usereducer) |
+      [Epic React](https://epicreact.dev/modules/advanced-react-hooks/usereducer-simple-counter-intro)
 
-Learning about `useReducer()` hook
+</details>
 
-**Resources Used**
-
-[Kent C. Dodds Blog](https://kentcdodds.com/blog/how-to-implement-usestate-with-usereducer)
-
-[Kent C. Dodds Blog](https://kentcdodds.com/blog/should-i-usestate-or-usereducer)
-
-[Epic React](https://epicreact.dev/modules/advanced-react-hooks/usereducer-simple-counter-intro)
-
----
+<details>
+<summary>Day 11</summary>
 
 ### Day 11: 11/01/2021
 
-**Notes**
+- [x] Learning about `Array.every()` and `Array.sort()` methods
+      [Youtube](https://www.youtube.com/watch?v=Arbk085MWjc) |
+      [Youtube](https://www.youtube.com/watch?v=nq0DC5M3Kc8) |
+      [w3schools](https://www.w3schools.com/js/js_array_sort.asp)
 
-Learning about `Array.every()` and `Array.sort()` methods
+</details>
 
-**Resources Used**
-
-[Youtube](https://www.youtube.com/watch?v=Arbk085MWjc)
-
-[Youtube](https://www.youtube.com/watch?v=nq0DC5M3Kc8)
-
-[w3schools](https://www.w3schools.com/js/js_array_sort.asp)
-
----
+<details>
+<summary>Day 12</summary>
 
 ### Day 12: 12/01/2021
 
-**Notes**
+- [x] Learning about `Array.some()` and `Array.filter()`
+      [Youtube](https://www.youtube.com/watch?v=7m9EiRS_Kc0) |
+      [Youtube](https://www.youtube.com/watch?v=3LOEGS4qcRM)
 
-Learning about `Array.some()` and `Array.filter()`
+</details>
 
-**Resources Used**
-
-[Youtube](https://www.youtube.com/watch?v=7m9EiRS_Kc0)
-
-[Youtube](https://www.youtube.com/watch?v=3LOEGS4qcRM)
-
----
+<details>
+<summary>Day 13</summary>
 
 ### Day 13: 13/01/2021
 
-**Notes**
+- [x] Learning about `Array.map()` and `Array.reduce()`
+      [Youtube](https://www.youtube.com/watch?v=G6J2kl1aVao) |
+      [Youtube](https://www.youtube.com/watch?v=0aJ65a6LsSc)
 
-Learning about `Array.map()` and `Array.reduce()`
+</details>
 
-**Resources Used**
-
-[Youtube](https://www.youtube.com/watch?v=G6J2kl1aVao)
-
-[Youtube](https://www.youtube.com/watch?v=0aJ65a6LsSc)
-
----
+<details>
+<summary>Day 14</summary>
 
 ### Day 14: 14/01/2021
 
-**Notes**
+- [x] Learning about Memoization and react
+      [Epic React](https://epicreact.dev/memoization-and-react)
 
-Learning about Memoization and react
+</details>
 
-**Resources Used**
-
-[Epic React](https://epicreact.dev/memoization-and-react)
-
----
+<details>
+<summary>Day 15</summary>
 
 ### Day 15: 15/01/2021
 
-**Notes**
+- [x] Learning about `useCallback()`
+      [Epic React](https://epicreact.dev/modules/advanced-react-hooks/usecallback-custom-hooks-intro)
 
-Learning about `useCallback()`
+</details>
 
-**Resources Used**
-
-[Epic React](https://epicreact.dev/modules/advanced-react-hooks/usecallback-custom-hooks-intro)
-
----
+<details>
+<summary>Day 16</summary>
 
 ### Day 16: 16/01/2021
 
-**Notes**
+- [x] Learning about `useContext()`
+      [Epic React](https://epicreact.dev/modules/advanced-react-hooks/usecontext-simple-counter-intro)
 
-Learning about `useContext()`
+</details>
 
-**Resources Used**
-
-[Epic React](https://epicreact.dev/modules/advanced-react-hooks/usecontext-simple-counter-intro)
-
----
+<details>
+<summary>Day 17</summary>
 
 ### Day 17: 17/01/2021
 
-**Notes**
+- [x] Learning about `useLayoutEffect()`
+      [Epic React](https://epicreact.dev/modules/advanced-react-hooks/uselayouteffect-auto-growing-textarea-intro) |
+      [Kent C. Dodds Blog](https://kentcdodds.com/blog/useeffect-vs-uselayouteffect)
 
-Learning about `useLayoutEffect()`
+</details>
 
-**Resources Used**
-
-[Epic React](https://epicreact.dev/modules/advanced-react-hooks/uselayouteffect-auto-growing-textarea-intro)
-
-[Kent C. Dodds Blog](https://kentcdodds.com/blog/useeffect-vs-uselayouteffect)
-
----
+<details>
+<summary>Day 18</summary>
 
 ### Day 18: 18/01/2021
 
-**Notes**
+- [x] Learning about Imperative and Declarative programming
+      [ui.dev](https://ui.dev/imperative-vs-declarative-programming)
 
-Learning about Imperative and Declarative programming
+</details>
 
-**Resources Used**
-
-[ui.dev](https://ui.dev/imperative-vs-declarative-programming)
-
----
+<details>
+<summary>Day 19</summary>
 
 ### Day 19: 19/01/2021
 
-**Notes**
+- [x] Learning about some React patterns
+      [Epic React](https://epicreact.dev/modules/advanced-react-patterns/advanced-react-patterns-welcome)
 
-Learning about some React patterns
+</details>
 
-**Resources Used**
-
-[Epic React](https://epicreact.dev/modules/advanced-react-patterns/advanced-react-patterns-welcome)
-
----
+<details>
+<summary>Day 20</summary>
 
 ### Day 20: 20/01/2021
 
-**Notes**
+- [x] Working with nodejs and Express
+      [Youtube](https://www.youtube.com/watch?v=gikxqKTuIQg)
 
-Working with nodejs and Express
+</details>
 
-**Resources Used**
-
-[Youtube](https://www.youtube.com/watch?v=gikxqKTuIQg)
-
----
+<details>
+<summary>Day 21</summary>
 
 ### Day 21: 21/01/2021
 
-**Notes**
+- [x] Implement a simple project for running a nodejs server
+      [Github](https://github.com/moienian/node-express-course)
 
-Implement a simple project for running a nodejs server
+</details>
 
-**Resources Used**
-
-[Github](https://github.com/moienian/node-express-course)
-
----
+<details>
+<summary>Day 22</summary>
 
 ### Day 22: 22/01/2021
 
-**Notes**
+- [x] Learning Nodejs for create and update data in database
+      [Github](https://github.com/moienian/intermediate-node-course)
 
-Learning Nodejs for create and update data in database
+</details>
 
-**Resources Used**
-
-[Github](https://github.com/moienian/intermediate-node-course)
-
----
+<details>
+<summary>Day 23</summary>
 
 ### Day 23: 23/01/2021
 
-**Notes**
+- [x] Working with Github Pages using markdown
+      [Github](https://github.com/moienian/markdown-portfolio)
 
-Working with Github Pages using markdown
+</details>
 
-**Resources Used**
-
-[Github](https://github.com/moienian/markdown-portfolio)
-
----
+<details>
+<summary>Day 24</summary>
 
 ### Day 24: 24/01/2021
 
-**Notes**
+- [x] Build simple portfolio using Github Pages
+      [Github](https://github.com/moienian/markdown-portfolio)
 
-Build simple portfolio using Github Pages
+</details>
 
-**Resources Used**
-
-[Github](https://github.com/moienian/markdown-portfolio)
-
----
+<details>
+<summary>Day 25</summary>
 
 ### Day 25: 25/01/2021
 
-**Notes**
+- [x] Learn about some React patterns
+      [Epic React](https://epicreact.dev/modules/advanced-react-patterns/state-reducer-intro) |
+      [Epic React](https://epicreact.dev/modules/advanced-react-patterns/control-props-intro)
 
-Learn about some React patterns
+</details>
 
-**Resources Used**
-
-[Epic React](https://epicreact.dev/modules/advanced-react-patterns/state-reducer-intro)
-
-[Epic React](https://epicreact.dev/modules/advanced-react-patterns/control-props-intro)
-
----
+<details>
+<summary>Day 26</summary>
 
 ### Day 26: 26/01/2021
 
-**Notes**
+- [x] Learn about CSR and SSR
+      [Aparat](https://www.aparat.com/v/CV1ic)
 
-Learn about CSR and SSR
+</details>
 
-**Resources Used**
-
-[Aparat](https://www.aparat.com/v/CV1ic)
-
----
+<details>
+<summary>Day 27</summary>
 
 ### Day 27: 27/01/2021
 
-**Notes**
+- [x] Learn about Controlled and unControlled components
+      [React Docs](https://reactjs.org/docs/forms.html#controlled-components) |
+      [Kent C. Dodds Blog](https://kentcdodds.com/blog/control-props-vs-state-reducers)
 
-Learn about Controlled and unControlled components
+- [x] Learn about code splitting
+      [Epic React](https://epicreact.dev/modules/react-performance/code-splitting-intro)
 
-Learn about code splitting
+</details>
 
-**Resources Used**
-
-[React Docs](https://reactjs.org/docs/forms.html#controlled-components)
-
-[Kent C. Dodds Blog](https://kentcdodds.com/blog/control-props-vs-state-reducers)
-
-[Epic React](https://epicreact.dev/modules/react-performance/code-splitting-intro)
-
----
+<details>
+<summary>Day 28</summary>
 
 ### Day 28: 28/01/2021
 
-**Notes**
+- [x] Learn about coverage tab in chrome devtools
+      [Google Developers](https://developers.google.com/web/tools/chrome-devtools)
 
-Learn about coverage tab in chrome devtools
+</details>
 
-**Resources Used**
-
-[Google Developers](https://developers.google.com/web/tools/chrome-devtools)
-
----
+<details>
+<summary>Day 29</summary>
 
 ### Day 29: 29/01/2021
 
-**Notes**
+- [x] Learn about Javascript Modules
+      [Useful Angle](https://usefulangle.com/post/256/script-type-module-vs-script-javascript) |
+      [v8.dev](https://v8.dev/features/modules) |
+      [sitepoint](https://www.sitepoint.com/using-es-modules/)
 
-Learn about Javascript Modules
+</details>
 
-**Resources Used**
-
-[Useful Angle](https://usefulangle.com/post/256/script-type-module-vs-script-javascript)
-
-[v8.dev](https://v8.dev/features/modules)
-
-[sitepoint](https://www.sitepoint.com/using-es-modules/)
-
----
+<details>
+<summary>Day 30</summary>
 
 ### Day 30: 30/01/2021
 
-**Notes**
+- [x] Learn about Webpack magic comments
+      [Webpack api](https://webpack.js.org/api/module-methods/#magic-comments)
 
-Learn about Webpack magic comments
+</details>
 
-**Resources Used**
-
-[Webpack api](https://webpack.js.org/api/module-methods/#magic-comments)
-
----
+<details>
+<summary>Day 31</summary>
 
 ### Day 31: 31/01/2021
 
-**Notes**
+- [x] Learn about React.memo for reducing re-renders
+      [Epic React](https://epicreact.dev/modules/react-performance/reactmemo-for-reducing-re-renders-intro)
 
-Learn about React.memo for reducing re-renders
+</details>
 
-**Resources Used**
-
-[Epic React](https://epicreact.dev/modules/react-performance/reactmemo-for-reducing-re-renders-intro)
-
----
+<details>
+<summary>Day 32</summary>
 
 ### Day 32: 01/02/2021
 
-**Notes**
+- [x] Learn about colocation
+      [Kent C. Dodds Blog](https://kentcdodds.com/blog/state-colocation-will-make-your-react-app-faster) |
+      [Epic React](https://epicreact.dev/modules/react-performance/fix-perf-death-by-a-thousand-cuts-solution)
 
-Learn about colocation
+- [x] Learn about react profiler
+      [React Docs](https://reactjs.org/docs/profiler.html) |
+      [Kent C. Dodds Blog](https://kentcdodds.com/blog/react-production-performance-monitoring)
 
-Learn about react profiler
+</details>
 
-**Resources Used**
-
-[Kent C. Dodds Blog](https://kentcdodds.com/blog/state-colocation-will-make-your-react-app-faster)
-
-[Epic React](https://epicreact.dev/modules/react-performance/fix-perf-death-by-a-thousand-cuts-solution)
-
-[React Docs](https://reactjs.org/docs/profiler.html)
-
-[Kent C. Dodds Blog](https://kentcdodds.com/blog/react-production-performance-monitoring)
-
----
+<details>
+<summary>Day 33</summary>
 
 ### Day 33: 02/02/2021
 
-**Notes**
+- [x] Learn about testing react apps
+      [Kent C. Dodds Blog](https://kentcdodds.com/blog/but-really-what-is-a-javascript-test) |
+      [Kent C. Dodds Blog](https://kentcdodds.com/blog/but-really-what-is-a-javascript-mock) |
+      [Epic React](https://epicreact.dev/modules/testing-react-apps/simple-test-with-reactdom-intro)
 
-Learn about testing react apps
+</details>
 
-**Resources Used**
-
-[Kent C. Dodds Blog](https://kentcdodds.com/blog/but-really-what-is-a-javascript-test)
-
-[Kent C. Dodds Blog](https://kentcdodds.com/blog/but-really-what-is-a-javascript-mock)
-
-[Epic React](https://epicreact.dev/modules/testing-react-apps/simple-test-with-reactdom-intro)
-
----
+<details>
+<summary>Day 34</summary>
 
 ### Day 34: 03/02/2021
 
-**Notes**
+- [x] Learn about testing
+      [Kent C. Dodds Blog](https://kentcdodds.com/blog/testing-implementation-details) |
+      [Kent C. Dodds Blog](https://kentcdodds.com/blog/avoid-the-test-user) |
+      [Epic React](https://epicreact.dev/modules/testing-react-apps/avoid-implementation-details-intro)
 
-Learn about testing
+</details>
 
-**Resources Used**
-
-[Kent C. Dodds Blog](https://kentcdodds.com/blog/testing-implementation-details)
-
-[Kent C. Dodds Blog](https://kentcdodds.com/blog/avoid-the-test-user)
-
-[Epic React](https://epicreact.dev/modules/testing-react-apps/avoid-implementation-details-intro)
-
----
+<details>
+<summary>Day 35</summary>
 
 ### Day 35 : 04/02/2021
 
-**Notes**
+- [x] Watching Live with Kent office hours
+      [Youtube](https://www.youtube.com/watch?v=xJpNIbJYK8Y)
 
-Watching Live with Kent office hours
-
-**Resources Used**
-
-[Youtube](https://www.youtube.com/watch?v=xJpNIbJYK8Y)
-
----
+</details>
 
 <details>
 <summary>Day 36</summary>
