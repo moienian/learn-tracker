@@ -403,3 +403,13 @@ Take a look at the official [100 Days of Code site](https://www.100daysofcode.co
 [Epic React](https://epicreact.dev/modules/testing-react-apps/form-testing-intro)
 
 </details>
+
+<details>
+<summary>Day 38</summary>
+  
+### Day 38 : 07/02/2021
+  
+- [x] Learn about Mock HTTP requests in app testing
+[Epic React](https://epicreact.dev/modules/testing-react-apps/mocking-http-requests-intro)
+
+</details>
