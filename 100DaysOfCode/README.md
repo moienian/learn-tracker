@@ -413,3 +413,13 @@ Take a look at the official [100 Days of Code site](https://www.100daysofcode.co
 [Epic React](https://epicreact.dev/modules/testing-react-apps/mocking-http-requests-intro)
 
 </details>
+
+<details>
+<summary>Day 39</summary>
+  
+### Day 39 : 08/02/2021
+  
+- [x] Learn about web workers
+[Kent C. Dodds Blog](https://kentcdodds.com/blog/speed-up-your-app-with-web-workers)
+
+</details>
