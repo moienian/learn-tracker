@@ -423,3 +423,13 @@ Take a look at the official [100 Days of Code site](https://www.100daysofcode.co
 [Kent C. Dodds Blog](https://kentcdodds.com/blog/speed-up-your-app-with-web-workers)
 
 </details>
+
+<details>
+<summary>Day 40</summary>
+  
+### Day 40 : 09/02/2021
+  
+- [x] Reading something about Bug Bounty
+[Memoryleaks](https://memoryleaks.ir/how-to-become-a-hacker)
+
+</details>
