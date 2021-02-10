@@ -433,3 +433,13 @@ Take a look at the official [100 Days of Code site](https://www.100daysofcode.co
 [Memoryleaks](https://memoryleaks.ir/how-to-become-a-hacker)
 
 </details>
+
+<details>
+<summary>Day 41</summary>
+  
+### Day 41 : 10/02/2021
+  
+- [x] Learn about closures in React
+[Epic React](https://epicreact.dev/how-react-uses-closures-to-avoid-bugs)
+
+</details>
