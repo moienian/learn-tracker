@@ -443,3 +443,13 @@ Take a look at the official [100 Days of Code site](https://www.100daysofcode.co
 [Epic React](https://epicreact.dev/how-react-uses-closures-to-avoid-bugs)
 
 </details>
+
+<details>
+<summary>Day 42</summary>
+  
+### Day 42 : 11/02/2021
+  
+- [x] Learn about testing React custom hooks
+[Epic React](https://epicreact.dev/modules/testing-react-apps/testing-custom-hooks-intro)
+
+</details>
