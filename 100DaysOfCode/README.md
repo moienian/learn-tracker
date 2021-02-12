@@ -453,3 +453,13 @@ Take a look at the official [100 Days of Code site](https://www.100daysofcode.co
 [Epic React](https://epicreact.dev/modules/testing-react-apps/testing-custom-hooks-intro)
 
 </details>
+
+<details>
+<summary>Day 43</summary>
+  
+### Day 43 : 12/02/2021
+  
+- [x] take some challenge on Codewars
+[Codewars](https://www.codewars.com)
+
+</details>
