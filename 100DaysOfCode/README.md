@@ -463,3 +463,13 @@ Take a look at the official [100 Days of Code site](https://www.100daysofcode.co
 [Codewars](https://www.codewars.com)
 
 </details>
+
+<details>
+<summary>Day 44</summary>
+  
+### Day 44 : 13/02/2021
+  
+- [x] Start build bookshelf App
+[Epic React](https://epicreact.dev/modules/build-an-epic-react-app/build-an-epic-react-app-welcome)
+
+</details>
