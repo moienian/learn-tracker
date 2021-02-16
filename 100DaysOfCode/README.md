@@ -494,3 +494,15 @@ Take a look at the official [100 Days of Code site](https://www.100daysofcode.co
 [reactsecurity](https://reactsecurity.io)
 
 </details>
+
+<details>
+<summary>Day 47</summary>
+  
+### Day 47 : 16/02/2021
+  
+- [x] Learn about routing in React
+[Epic React](https://epicreact.dev/modules/build-an-epic-react-app/routing-intro) |
+[Kent C. Dodds Blog](https://kentcdodds.com/blog/stop-using-client-side-route-redirects) |
+[ui.dev](https://ui.dev/build-your-own-react-router-v4)
+
+</details>
