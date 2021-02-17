@@ -506,3 +506,13 @@ Take a look at the official [100 Days of Code site](https://www.100daysofcode.co
 [ui.dev](https://ui.dev/build-your-own-react-router-v4)
 
 </details>
+
+<details>
+<summary>Day 48</summary>
+  
+### Day 48 : 17/02/2021
+  
+- [x] Working with data caching using react-query
+[Epic React](https://epicreact.dev/modules/build-an-epic-react-app/cache-management-intro)
+
+</details>
