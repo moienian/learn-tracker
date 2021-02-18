@@ -516,3 +516,13 @@ Take a look at the official [100 Days of Code site](https://www.100daysofcode.co
 [Epic React](https://epicreact.dev/modules/build-an-epic-react-app/cache-management-intro)
 
 </details>
+
+<details>
+<summary>Day 49</summary>
+  
+### Day 49 : 18/02/2021
+  
+- [x] Working with data caching using react-query (2)
+[Epic React](https://epicreact.dev/modules/build-an-epic-react-app/cache-management-extra-credit-solution-03-02)
+
+</details>
