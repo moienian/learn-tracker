@@ -526,3 +526,13 @@ Take a look at the official [100 Days of Code site](https://www.100daysofcode.co
 [Epic React](https://epicreact.dev/modules/build-an-epic-react-app/cache-management-extra-credit-solution-03-02)
 
 </details>
+
+<details>
+<summary>Day 50</summary>
+  
+### Day 50 : 19/02/2021
+  
+- [x] Reading about Penetration testing
+[Github](https://github.com/Voorivex/pentest-guide)
+
+</details>
