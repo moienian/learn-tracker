@@ -546,3 +546,17 @@ Take a look at the official [100 Days of Code site](https://www.100daysofcode.co
 [Epic React](https://epicreact.dev/modules/build-an-epic-react-app/context-intro)
 
 </details>
+
+<details>
+<summary>Day 52</summary>
+  
+### Day 52 : 21/02/2021
+  
+- [x] Learn about Compound components in react
+[Youtube](https://www.youtube.com/watch?v=AiJ8tRRH0f8) |
+[Epic React](https://epicreact.dev/modules/build-an-epic-react-app/compound-components-intro)
+
+- [x] Start reading Real-World Bug Hunting
+      [amazon](https://www.amazon.com/Real-World-Bug-Hunting-Field-Hacking-ebook/dp/B072SQZ2LG)
+
+</details>
