@@ -560,3 +560,13 @@ Take a look at the official [100 Days of Code site](https://www.100daysofcode.co
       [amazon](https://www.amazon.com/Real-World-Bug-Hunting-Field-Hacking-ebook/dp/B072SQZ2LG)
 
 </details>
+
+<details>
+<summary>Day 53</summary>
+  
+### Day 53 : 22/02/2021
+  
+- [x] Add some performance improvement to bookshelf App
+[Epic React](https://epicreact.dev/modules/build-an-epic-react-app/performance-intro)
+
+</details>
