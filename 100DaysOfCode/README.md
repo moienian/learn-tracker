@@ -580,3 +580,13 @@ Take a look at the official [100 Days of Code site](https://www.100daysofcode.co
 [Epic React](https://epicreact.dev/modules/build-an-epic-react-app/unit-testing-intro)
 
 </details>
+
+<details>
+<summary>Day 55</summary>
+  
+### Day 55 : 24/02/2021
+  
+- [x] Learn about bug bounty
+[Hacker101](https://hacker101.com)
+
+</details>
