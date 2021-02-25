@@ -590,3 +590,13 @@ Take a look at the official [100 Days of Code site](https://www.100daysofcode.co
 [Hacker101](https://hacker101.com)
 
 </details>
+
+<details>
+<summary>Day 56</summary>
+  
+### Day 56 : 25/02/2021
+  
+- [x] Learn about Burp Suite for bug bounty
+[Hacker101](https://www.hacker101.com/playlists/burp_suite)
+
+</details>
