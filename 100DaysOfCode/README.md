@@ -600,3 +600,13 @@ Take a look at the official [100 Days of Code site](https://www.100daysofcode.co
 [Hacker101](https://www.hacker101.com/playlists/burp_suite)
 
 </details>
+
+<details>
+<summary>Day 57</summary>
+  
+### Day 57 : 26/02/2021
+  
+- [x] Practice bug bounty in Capture The Flag
+[Hacker101](https://ctf.hacker101.com/)
+
+</details>
