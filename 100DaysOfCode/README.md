@@ -610,3 +610,14 @@ Take a look at the official [100 Days of Code site](https://www.100daysofcode.co
 [Hacker101](https://ctf.hacker101.com/)
 
 </details>
+
+<details>
+<summary>Day 58</summary>
+  
+### Day 58 : 27/02/2021
+  
+- [x] Learn about testing react-hooks
+[Kent C. Dodds Blog](https://kentcdodds.com/blog/how-to-test-custom-react-hooks) |
+[Epic React](https://epicreact.dev/modules/build-an-epic-react-app/testing-hooks-and-components-intro)
+
+</details>
