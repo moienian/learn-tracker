@@ -621,3 +621,14 @@ Take a look at the official [100 Days of Code site](https://www.100daysofcode.co
 [Epic React](https://epicreact.dev/modules/build-an-epic-react-app/testing-hooks-and-components-intro)
 
 </details>
+
+<details>
+<summary>Day 59</summary>
+  
+### Day 59 : 28/02/2021
+  
+- [x] Learn some javascript tips for clean coding
+[Youtube](https://www.youtube.com/watch?v=ZI3q-_vjSZE) |
+[Github](https://github.com/ryanmcdermott/clean-code-javascript)
+
+</details>
