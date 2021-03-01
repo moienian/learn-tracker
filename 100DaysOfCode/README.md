@@ -632,3 +632,12 @@ Take a look at the official [100 Days of Code site](https://www.100daysofcode.co
 [Github](https://github.com/ryanmcdermott/clean-code-javascript)
 
 </details>
+
+<details>
+<summary>Day 60</summary>
+  
+### Day 60 : 01/03/2021
+  
+- [x] Reading Real-World Bug Hunting Book
+[amazon](https://amazon.com/Real-World-Bug-Huntiog-Field-Hackering/dp/1593278616)
+</details>
