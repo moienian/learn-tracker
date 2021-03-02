@@ -641,3 +641,12 @@ Take a look at the official [100 Days of Code site](https://www.100daysofcode.co
 - [x] Reading Real-World Bug Hunting Book
 [amazon](https://amazon.com/Real-World-Bug-Huntiog-Field-Hackering/dp/1593278616)
 </details>
+
+<details>
+<summary>Day 61</summary>
+  
+### Day 61 : 02/03/2021
+  
+- [x] Learn about some HTML tags
+[Youtube](https://www.youtube.com/watch?v=iX_QyjdctsQ)
+</details>
