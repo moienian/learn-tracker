@@ -650,3 +650,12 @@ Take a look at the official [100 Days of Code site](https://www.100daysofcode.co
 - [x] Learn about some HTML tags
 [Youtube](https://www.youtube.com/watch?v=iX_QyjdctsQ)
 </details>
+
+<details>
+<summary>Day 62</summary>
+  
+### Day 62 : 03/03/2021
+  
+- [x] Learn about Pentesting
+[Hacker101](https://www.hacker101.com/playlists/pentesting_series)
+</details>
