@@ -659,3 +659,12 @@ Take a look at the official [100 Days of Code site](https://www.100daysofcode.co
 - [x] Learn about Pentesting
 [Hacker101](https://www.hacker101.com/playlists/pentesting_series)
 </details>
+
+<details>
+<summary>Day 63</summary>
+  
+### Day 63 : 04/03/2021
+  
+- [x] Introduction to research in hacking
+[TryHackMe](https://tryhackme.com/room/introtoresearch)
+</details>
