@@ -668,3 +668,12 @@ Take a look at the official [100 Days of Code site](https://www.100daysofcode.co
 - [x] Introduction to research in hacking
 [TryHackMe](https://tryhackme.com/room/introtoresearch)
 </details>
+
+<details>
+<summary>Day 64</summary>
+  
+### Day 64 : 05/03/2021
+  
+- [x] Learning Linux fundamental
+[TryHackMe](https://tryhackme.com/jr/linux1)
+</details>
