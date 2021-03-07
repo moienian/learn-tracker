@@ -686,3 +686,12 @@ Take a look at the official [100 Days of Code site](https://www.100daysofcode.co
 - [x] Learning with postman
 [Youtube](https://www.youtube.com/watch?v=VywxIQ2ZXw4)
 </details>
+
+<details>
+<summary>Day 66</summary>
+  
+### Day 66 : 07/03/2021
+  
+- [x] Learning about becoming a pentester
+[Youtube](https://www.youtube.com/watch?v=NPuwI7rd4xg)
+</details>
