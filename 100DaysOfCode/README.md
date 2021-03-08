@@ -695,3 +695,12 @@ Take a look at the official [100 Days of Code site](https://www.100daysofcode.co
 - [x] Learning about becoming a pentester
 [Youtube](https://www.youtube.com/watch?v=NPuwI7rd4xg)
 </details>
+
+<details>
+<summary>Day 67</summary>
+  
+### Day 67 : 08/03/2021
+  
+- [x] Learning about git merge and rebase
+[Youtube](https://www.youtube.com/watch?v=7Mh259hfxJg)
+</details>
