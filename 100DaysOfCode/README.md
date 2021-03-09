@@ -704,3 +704,12 @@ Take a look at the official [100 Days of Code site](https://www.100daysofcode.co
 - [x] Learning about git merge and rebase
 [Youtube](https://www.youtube.com/watch?v=7Mh259hfxJg)
 </details>
+
+<details>
+<summary>Day 68</summary>
+  
+### Day 68 : 09/03/2021
+  
+- [x] Learning about `this` is javascript
+[web.dev](https://web.dev/javascript-this/)
+</details>
