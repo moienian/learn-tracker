@@ -713,3 +713,12 @@ Take a look at the official [100 Days of Code site](https://www.100daysofcode.co
 - [x] Learning about `this` is javascript
 [web.dev](https://web.dev/javascript-this/)
 </details>
+
+<details>
+<summary>Day 69</summary>
+  
+### Day 69 : 10/03/2021
+  
+- [x] a simple start with python
+[Youtube](https://www.youtube.com/watch?v=GKsCitAEKow)
+</details>
