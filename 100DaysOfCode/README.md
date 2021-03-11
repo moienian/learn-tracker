@@ -722,3 +722,12 @@ Take a look at the official [100 Days of Code site](https://www.100daysofcode.co
 - [x] a simple start with python
 [Youtube](https://www.youtube.com/watch?v=GKsCitAEKow)
 </details>
+
+<details>
+<summary>Day 70</summary>
+  
+### Day 70 : 11/03/2021
+  
+- [x] Learn about how networks work
+[TryHackMe](https://tryhackme.com/room/introtonetworking)
+</details>
