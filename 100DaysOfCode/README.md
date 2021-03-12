@@ -731,3 +731,12 @@ Take a look at the official [100 Days of Code site](https://www.100daysofcode.co
 - [x] Learn about how networks work
 [TryHackMe](https://tryhackme.com/room/introtonetworking)
 </details>
+
+<details>
+<summary>Day 71</summary>
+  
+### Day 71 : 12/03/2021
+  
+- [x] reading Real-World Bug Hunting book
+[amazon](https://www.amazon.com/Real-World-Bug-Hunting-Field-Hacking-ebook/dp/B072SQZ2LG)
+</details>
