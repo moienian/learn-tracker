@@ -740,3 +740,12 @@ Take a look at the official [100 Days of Code site](https://www.100daysofcode.co
 - [x] reading Real-World Bug Hunting book
 [amazon](https://www.amazon.com/Real-World-Bug-Hunting-Field-Hacking-ebook/dp/B072SQZ2LG)
 </details>
+
+<details>
+<summary>Day 72</summary>
+  
+### Day 72 : 13/03/2021
+  
+- [x] Learning about OWASP TOP 10
+[Youtube](https://www.youtube.com/watch?v=EyRRLZgvs5w)
+</details>
