@@ -749,3 +749,12 @@ Take a look at the official [100 Days of Code site](https://www.100daysofcode.co
 - [x] Learning about OWASP TOP 10
 [Youtube](https://www.youtube.com/watch?v=EyRRLZgvs5w)
 </details>
+
+<details>
+<summary>Day 73</summary>
+  
+### Day 73 : 14/03/2021
+  
+- [x] Reading about React job interview
+[medium](https://medium.com/@baphemot/a-react-job-interview-recruiter-perspective-f1096f54dd16)
+</details>
